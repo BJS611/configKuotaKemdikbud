@@ -8,7 +8,7 @@ Tutor masang konfignya bisa lihat di google...
 
 Keywords pencarian: 
 
-how to import config http injector
-cara pasang config http injector
-tutorial cara menggunakan http injector
-free internetan pakai http injector
+#how to import config http injector
+#cara pasang config http injector
+#tutorial cara menggunakan http injector
+#free internetan pakai http injector
